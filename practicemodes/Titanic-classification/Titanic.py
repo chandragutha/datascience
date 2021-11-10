@@ -1,8 +1,7 @@
 import os
 import pandas as pd
 from sklearn import tree
-#import io
-#import pydot
+
 
 # Working directory
 os.chdir("D:/ChandraWork/DataScience/practicemodels/Titanic-classification")
